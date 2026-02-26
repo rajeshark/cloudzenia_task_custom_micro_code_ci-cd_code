@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Hello from Microservice');
+  res.send('Hello from rajesh');
 });
 
 const PORT = 3000;
